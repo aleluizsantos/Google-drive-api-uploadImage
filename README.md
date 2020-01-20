@@ -20,4 +20,4 @@ Na caixa de diálogo resultante, clique em DOWNLOAD CONFIGURATION DO CLIENTE e s
 
 ### Etapa 2: instalar a biblioteca do cliente Execute os seguintes comandos para instalar as bibliotecas usando o npm: 
 
-> npm install googleapis @ 39 --save 
+> npm install googleapis@39 --save 
